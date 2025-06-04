@@ -1,0 +1,81 @@
+id,name,rarity,season
+1,Agrias Butterfly,rare,"Spring, Summer"
+2,Ant,common,"Spring,Summer,Fall,Winter"
+3,Atlas Moth,uncommon,"Spring, Summer"
+4,Bagworm,common,"Spring,Summer,Fall,Winter"
+5,Banded Dragonfly,uncommon,"Spring, Summer, Fall"
+6,Bell Cricket,common,Fall
+7,Blue Weevil Beetle,uncommon,Summer
+8,Brown Cicada,common,Summer
+9,Centipede,common,"Fall,Winter"
+10,Cicada Shell,common,Summer
+11,Citrus Long-Horned Beetle,common,"Spring,Summer,Fall,Winter"
+12,Common Bluebottle,common,"Spring,Summer"
+13,Common Butterfly,common,"Fall,Winter"
+14,Cricket,common,Fall
+15,Cyclommatus Stag,rare,Summer
+16,Damselfly,common,Winter
+17,Darner Dragonfly,common,"Spring,Summer,Fall"
+18,Diving Beetle,common,Summer
+19,Drone Beetle,common,Summer
+20,Dung Beetle,common,Winter
+21,Earth-Boring Dung Beetle,common,Summer
+22,Emperor Butterfly,uncommon,"Winter,Spring"
+23,Evening Cicada,common,Summer
+24,Firefly,uncommon,Summer
+25,Flea,common,"Spring,Summer,Fall"
+26,Fly,common,"Spring,Summer,Fall,Winter"
+27,Giant Cicada,common,Summer
+28,Giant Stag,rare,Summer
+29,Giant Water Bug,uncommon,"Spring,Summer"
+30,Giraffe Stag,legendary,Summer
+31,Golden Stag,legendary,Summer
+32,Goliath Beetle,rare,Summer
+33,Grasshopper,common,Summer
+34,Great Purple Emperor,uncommon,Summer
+35,Hermit Crab,common,"Spring,Summer,Fall,Winter"
+36,Honeybee,common,"Spring,Summer"
+37,Horned Atlas,rare,Summer
+38,Horned Dynastid,rare,Summer
+39,Horned Elephant,rare,Summer
+40,Horned Hercules,rare,Summer
+41,Jewel Beetle,uncommon,"Spring,Summer"
+42,Ladybug,common,"Spring,Summer"
+43,Long Locust,common,"Spring,Summer,Fall"
+44,Madagascan Sunset Moth,uncommon,"Spring,Summer"
+45,Man-Faced Stink Bug,uncommon,"Spring,Summer,Fall"
+46,Mantis,common,"Spring,Summer,Fall"
+47,Migratory Locust,common,"Winter,Spring"
+48,Miyama Stag,uncommon,Summer
+49,Mole Cricket,common,"Fall,Winter,Spring"
+50,Monarch Butterfly,common,Fall
+51,Mosquito,common,Summer
+52,Moth,common,"Spring,Summer,Fall,Winter"
+53,Orchid Mantis,uncommon,"Spring,Summer,Fall"
+54,Paper Kite Butterfly,uncommon,"Spring,Summer,Fall,Winter"
+55,Peacock Butterfly,uncommon,Spring
+56,Pill Bug,common,"Fall,Spring"
+57,Pondskater,common,Summer
+58,Queen Alexandra’s Birdwing,legendary,Summer
+59,Rainbow Stag,rare,Summer
+60,Rajah Brooke’s Birdwing,rare,"Winter,Spring"
+61,Red Dragonfly,common,Fall
+62,Rice Grasshopper,common,Fall
+63,Robus Cicada,uncommon,Summer
+64,Rosalia Batsei Beetle,rare,"Spring,Summer"
+65,Saw Stag,common,Summer
+66,Scarab Beetle,rare,Summer
+67,Scorpion,rare,"Summer,Fall"
+68,Snail,common,"Spring,Summer,Fall,Winter"
+69,Spider,common,"Spring,Summer,Fall,Winter"
+70,Stinkbug,common,"Spring,Summer,Fall"
+71,Tarantula,rare,"Winter,Spring"
+72,Tiger Beetle,common,"Spring,Summer,Fall"
+73,Tiger Butterfly,common,"Spring,Summer"
+74,Violin Beetle,common,"Spring,Fall"
+75,Walker Cicada,common,"Summer,Fall"
+76,Walking Leaf,uncommon,Summer
+77,Walking Stick,uncommon,"Summer,Fall"
+78,Wasp,common,"Spring,Summer,Fall,Winter"
+79,Wharf Roach,common,"Spring,Summer,Fall,Winter"
+80,Yellow Butterfly,common,"Spring,Fall"

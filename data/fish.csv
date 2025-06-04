@@ -1,0 +1,72 @@
+id,name,rarity,season
+1,Alewife,rare,Spring
+2,American eel,common,Summer
+3,American pickerel,common,"Spring, Summer, Fall"
+4,Amia ocellicauda,rare,Summer
+5,Apeltes,rare,Summer
+6,Atlantic salmon,legendary,Fall
+7,Blackfin cisco,rare,Fall
+8,Blackstripe topminnow,rare,Summer
+9,Blue walleye,uncommon,Fall
+10,Blueback herring,common,Spring
+11,Bluegill,rare,"Spring, Summer"
+12,Bowfin,common,Summer
+13,Brindled madtom,common,Summer
+14,Brook silverside,common,Summer
+15,Brook stickleback,common,Summer
+16,Brook trout,common,"Spring, Summer, Fall"
+17,Brown bullhead,common,"Spring, Summer, Fall"
+18,Burbot,uncommon,Winter
+19,Central mudminnow,common,Spring
+20,Chain pickerel,common,"Spring, Summer, Fall"
+21,Cisco,uncommon,Fall
+22,Common logperch,common,Summer
+23,Coregonus artedi,uncommon,Fall
+24,Coregonus hoyi,common,Fall
+25,Deepwater sculpin,legendary,"Spring, Summer, Fall, Winter"
+26,Eastern mudminnow,uncommon,Summer
+27,Emerald shiner,common,Summer
+28,Freshwater drum,rare,Summer
+29,Golden shiner,uncommon,Summer
+30,Ichthyomyzon unicuspis,uncommon,Spring
+31,Ives Lake cisco,uncommon,Fall
+32,Lake chub,uncommon,Summer
+33,Lake sturgeon,common,Spring
+34,Lake trout,common,"Fall, Winter"
+35,Lake whitefish,uncommon,Fall
+36,Longnose sucker,rare,Spring
+37,Mottled sculpin,common,Summer
+38,Muskellunge,common,"Summer, Fall"
+39,Ninespine stickleback,uncommon,Summer
+40,Northern brook lamprey,common,Spring
+41,Northern pike,legendary,Spring
+42,Noturus flavus,common,Summer
+43,Noturus insignis,common,Summer
+44,Percopsis omiscomaycus,common,Spring
+45,Pumpkinseed,uncommon,"Spring, Summer"
+46,Pygmy whitefish,uncommon,Fall
+47,Rainbow smelt,common,Spring
+48,Redfin shiner,uncommon,Summer
+49,Rock bass,common,"Spring, Summer, Fall"
+50,Round whitefish,common,Fall
+51,Ruffe,uncommon,Summer
+52,Sand shiner,common,Summer
+53,Sauger,common,Spring
+54,Sea lamprey,common,Spring
+55,Semotilus atromaculatus,uncommon,Summer
+56,Shortjaw cisco,common,Fall
+57,Silver lamprey,common,Spring
+58,Slimy sculpin,uncommon,"Spring, Summer, Fall, Winter"
+59,Smallmouth bass,common,"Spring, Summer, Fall"
+60,Spoonhead sculpin,uncommon,"Spring, Summer, Fall, Winter"
+61,Spottail shiner,common,Summer
+62,Three-spined stickleback,common,Summer
+63,Walleye,common,"Spring, Summer, Fall"
+64,Western sand darter,uncommon,Summer
+65,Western tubenose goby,common,Summer
+66,White bass,common,Spring
+67,White perch,legendary,"Spring, Summer"
+68,White sucker,uncommon,Spring
+69,Yellow bass,common,Summer
+70,Yellow bullhead,common,"Spring, Summer"
+71,Yellow perch,legendary,Winter
